@@ -1,3 +1,2 @@
 this is a text.
-repo 1
 repo 2
